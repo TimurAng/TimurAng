@@ -1,5 +1,3 @@
-TimurAng / README.md
-
 # Hi there 👋
 
 ## My name is Timur Kurbanov 
