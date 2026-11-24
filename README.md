@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## My name is Timur Kurbanov 
-Junior Data Scientist with over a year of hands-on experience in IT. Specializing in machine learning and data analysis. Passionate about solving real-world business problems and quick to learn new technologies. Looking for a team where I can make a meaningful contribution and grow as a professional.
+Data Scientist with over a year of hands-on experience in IT. Specializing in machine learning and data analysis. Passionate about solving real-world business problems and quick to learn new technologies. Looking for a team where I can make a meaningful contribution and grow as a professional.
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
