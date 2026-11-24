@@ -23,6 +23,7 @@ Junior Data Scientist with over a year of hands-on experience in IT. Specializin
 ## 📫 Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/angelx97 )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurbanov-timur/)
+[![HH.ru](https://img.shields.io/badge/HeadHunter-FF0000?style=flat&logo=briefcase&logoColor=white)](https://hh.ru/resume/6c1e5054ff10d634bd0039ed1f343452726f59)
 
 ## 🚀 Featured Projects
 * [Heart_risk_project](https://github.com/TimurAng/heart_risk_project) - Прогнозирования риска сердечного приступа
